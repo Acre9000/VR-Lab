@@ -191,6 +191,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bullet (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7745211400810737323, guid: 712973e59ffbf6d4f8afea725c547eaa,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Force
+        Multi","value":{"$content":2.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 712973e59ffbf6d4f8afea725c547eaa, type: 3}
 --- !u!1 &107079986
