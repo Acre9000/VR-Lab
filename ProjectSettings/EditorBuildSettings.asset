@@ -8,13 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Samples/Scenes/WorldInteractionDemo.unity
     guid: 3d16fc5db26e2354e9ac2a5031a52e6d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Projects/VR Infinite Flier/InfiniteFlierDemo.unity
     guid: 3e5ec56212a403d47989839fb2bc5ced
   - enabled: 0
     path: Assets/Projects/Shield Arena/Shield Arena Demo.unity
     guid: 9265ec84e1760454cbcafa72656d02ae
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/Tentacles/Tentacles.unity
     guid: 52e4ee38723db4943b76303547962b57
   m_configObjects:
